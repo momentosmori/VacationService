@@ -1,4 +1,4 @@
-package com.example.vacationservice.controllers.responses;
+package com.momentosmori.vacationservice.controllers.responses;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 

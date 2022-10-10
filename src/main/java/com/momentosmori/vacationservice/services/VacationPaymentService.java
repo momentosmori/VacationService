@@ -1,4 +1,4 @@
-package com.example.vacationservice.services;
+package com.momentosmori.vacationservice.services;
 
 import org.springframework.stereotype.Service;
 import java.math.BigDecimal;

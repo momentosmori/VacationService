@@ -1,4 +1,4 @@
-package com.example.vacationservice.services;
+package com.momentosmori.vacationservice.services;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

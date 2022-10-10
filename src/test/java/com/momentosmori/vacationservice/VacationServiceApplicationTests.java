@@ -1,4 +1,4 @@
-package com.example.vacationservice;
+package com.momentosmori.vacationservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

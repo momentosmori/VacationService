@@ -1,8 +1,7 @@
-package com.example.vacationservice.controllers;
+package com.momentosmori.vacationservice.controllers;
 
-import com.example.vacationservice.controllers.responses.PaymentNumResponse;
-import com.example.vacationservice.services.VacationPaymentService;
-import com.fasterxml.jackson.annotation.JsonFormat;
+import com.momentosmori.vacationservice.controllers.responses.PaymentNumResponse;
+import com.momentosmori.vacationservice.services.VacationPaymentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.HttpStatus;
